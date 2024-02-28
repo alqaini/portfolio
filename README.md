@@ -1,6 +1,4 @@
-# waelqaini.github.io
 
-# WAEL QAINI
 San Jose, CA | Phone: (661) 703 0982 | Email: alqaini32@gmail.com
 
 ## Contact
