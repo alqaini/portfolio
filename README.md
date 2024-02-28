@@ -6,13 +6,11 @@ San Jose, CA | Phone: (661) 703 0982 | Email: alqaini32@gmail.com
 - GitHub: [github.com/alqaini](https://github.com/alqaini)
 
 ## Education
-- **Master of Computer Science (Major: Machine Learning)**  
-  Expected 2024  
+- **Master of Computer Science (Major: Machine Learning)**   Expected 2024
   Georgia Institute of Technology  
   Courses: Data and visual analytics, statistical modeling and regression analysis, machine learning for trading
 
-- **Bachelor of Data Science and Analytics**  
-  2021  
+- **Bachelor of Data Science and Analytics**    2021  
   Thomas Edison State University (NJ)  
   Courses: Data analytics, statistics, machine learning and software programming.
 
