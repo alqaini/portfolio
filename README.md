@@ -18,7 +18,7 @@ San Jose, CA | Phone: (661) 703 0982 | Email: alqaini32@gmail.com
   Thomas Edison State University (NJ)  
   Courses: Data analytics, statistics, machine learning and software programming.
 
-  ## Projects:
+## Projects:
 
 ## Skills
 - Proficient in Python and SQL (including MySQL and PostgreSQL).
