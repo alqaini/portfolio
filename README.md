@@ -6,7 +6,7 @@ San Jose, CA | Phone: (661) 703 0982 | Email: alqaini32@gmail.com
 - GitHub: [github.com/alqaini](https://github.com/alqaini)
 
 ## Education
-- **Master of Computer Science (Major: Machine Learning)**   Expected 2024
+- **Master of Computer Science (Machine Learning)** Expected 2024
   Georgia Institute of Technology  
   Courses: Data and visual analytics, statistical modeling and regression analysis, machine learning for trading
 
@@ -27,7 +27,7 @@ San Jose, CA | Phone: (661) 703 0982 | Email: alqaini32@gmail.com
 - Knowledgeable in key networking concepts including HTTP/s, TCP/IP, DNS, OSI model, routing, switching, firewalls, and LAN/WAN.
 
 ## Experience
-**Customer Success Specialist / Analyst**  
+**Customer Success / Salesforce Analyst**  
 July 2021 – Present  
 Inscopix Inc (Bruker Nano), Mountain View, CA
 
